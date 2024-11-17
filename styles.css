@@ -1,0 +1,14 @@
+.row {
+    border: 2px solid black;
+}
+.col {
+    padding: 10px;
+}
+.text {
+    border-right: 2px solid black;
+    font-size: 24px;
+}
+.picture img {
+    width: 200px;
+    height: auto;
+}
